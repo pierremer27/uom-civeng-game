@@ -1,0 +1,84 @@
+{
+    "name": "Paris",
+    "background_path": "game/assets/manchester_background.png",
+    "locations": [
+        {
+            "name": "Tour Eiffel",
+            "x": 484,
+            "y": 506,
+            "color": "green"
+        },
+        {
+            "name": "Tour Montparnasse",
+            "x": 926,
+            "y": 389,
+            "color": "deep_blue"
+        },
+        {
+            "name": "\u00c9lys\u00e9e",
+            "x": 205,
+            "y": 267,
+            "color": "grey"
+        },
+        {
+            "name": "Matignon",
+            "x": 439,
+            "y": 226,
+            "color": "black"
+        },
+        {
+            "name": "Trocad\u00e9ro",
+            "x": 708,
+            "y": 140,
+            "color": "pinkeye"
+        },
+        {
+            "name": "Bon March\u00e9",
+            "x": 1036,
+            "y": 235,
+            "color": "pinkeye"
+        },
+        {
+            "name": "Sacr\u00e9 Coeur",
+            "x": 613,
+            "y": 261,
+            "color": "violet"
+        },
+        {
+            "name": "Tuileries",
+            "x": 181,
+            "y": 508,
+            "color": "orange"
+        },
+        {
+            "name": "Louvre",
+            "x": 702,
+            "y": 481,
+            "color": "deep_blue"
+        },
+        {
+            "name": "L'orangerie",
+            "x": 23,
+            "y": 248,
+            "color": "red"
+        },
+        {
+            "name": "Panth\u00e9on",
+            "x": 576,
+            "y": 37,
+            "color": "grey"
+        },
+        {
+            "name": "Arc de Triomphe",
+            "x": 90,
+            "y": 363,
+            "color": "black"
+        },
+        {
+            "name": "L'Op\u00e9ra",
+            "x": 1028,
+            "y": 442,
+            "color": "blue"
+        }
+    ]
+}

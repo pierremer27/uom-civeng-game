@@ -1,0 +1,54 @@
+{
+    "name": "Manchester",
+    "background_path": "game/assets/manchester_background.png",
+    "locations": [
+        {
+            "name": "Picadilly Gardens",
+            "x": 675,
+            "y": 170,
+            "color": "blue"
+        },
+        {
+            "name": "Engineering Building",
+            "x": 580,
+            "y": 480,
+            "color": "orange"
+        },
+        {
+            "name": "Gay Village",
+            "x": 650,
+            "y": 300,
+            "color": "purple"
+        },
+        {
+            "name": "Salford Museum",
+            "x": 100,
+            "y": 100,
+            "color": "red"
+        },
+        {
+            "name": "Salford Central",
+            "x": 390,
+            "y": 200,
+            "color": "pinkeye"
+        },
+        {
+            "name": "Central Library",
+            "x": 525,
+            "y": 280,
+            "color": "grey"
+        },
+        {
+            "name": "Deansgate",
+            "x": 370,
+            "y": 360,
+            "color": "deep_blue"
+        },
+        {
+            "name": "Cotton Field Park",
+            "x": 809,
+            "y": 105,
+            "color": "green"
+        }
+    ]
+}
