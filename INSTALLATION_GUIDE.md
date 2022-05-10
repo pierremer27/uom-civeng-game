@@ -4,7 +4,7 @@ Code-it-yourself introduction to civil Engineering!
 
 ## Installation
 
-To play the game, you must have Python 3 and git installed on your computer.
+To play the game, you must have Python 3 and git installed on your computer. Then type this code into your command line system to install.
 
 ```
 git clone https://github.com/pierremer27/uom-civeng-game.git
